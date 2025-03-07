@@ -1,0 +1,24 @@
+C:\Users\osvin\Desktop\Banco2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\osvin\Desktop\Banco2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\osvin\Desktop\Banco2\CapaDatos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\osvin\Desktop\Banco2\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\osvin\Desktop\Banco2\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\osvin\Desktop\Banco2\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\osvin\Desktop\Banco2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\osvin\Desktop\Banco2\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaDatos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\osvin\Desktop\tarea 4\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\osvin\Desktop\tarea 4\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\osvin\Desktop\tarea 4\CapaDatos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\osvin\Desktop\tarea 4\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\osvin\Desktop\tarea 4\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\osvin\Desktop\tarea 4\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\osvin\Desktop\tarea 4\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\osvin\Desktop\tarea 4\CapaDatos\obj\Debug\CapaDatos.pdb

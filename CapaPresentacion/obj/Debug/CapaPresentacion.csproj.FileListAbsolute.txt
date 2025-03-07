@@ -1,0 +1,48 @@
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMenuPrincipal.resources
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCuentas.resources
+C:\Users\osvin\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCuentas.resources
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMenuPrincipal.resources
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Jean Carlos Andrade\Desktop\Banco2\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\obj\Debug\CapaPresentacion.frmCarros.resources
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMenuPrincipal.resources
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\osvin\Desktop\tarea 4\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
